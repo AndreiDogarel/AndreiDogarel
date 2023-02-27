@@ -1,12 +1,19 @@
 <h1 align="center">Hi, I'm Andrei Dogărel</h1>
 <h3 align="center">Student at <a href="https://fmi.unibuc.ro">FMI-Unibuc</a></h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreidogarel&label=Profile%20views&color=0e75b6&style=flat" alt="andreidogarel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dynamight" target="blank"><img src="https://img.shields.io/twitter/follow/dynamight?logo=twitter&style=for-the-badge" alt="dynamight" /></a> </p>
 
 - 📫 How to reach me **andreidogarel6@gmail.com**
+
+<h3 align="left">Problems solved (<i>Language: </i><b>C++</b>):</h3>
+<ul>
+  <li><a href="https://www.interviewbit.com/profile/andrei-dogarel" target="blank">InterviewBit</a></li>
+  <li><a href="https://www.nerdarena.ro/utilizator/andreidogarel6@gmail.com?action=stats" target="blank">VArena/InfoArena</a></li>
+  <li><a href="https://www.pbinfo.ro/profil/AndreiPorleo" target="blank">PBInfo</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +26,3 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreidogarel&show_icons=true&locale=en&layout=compact" alt="andreidogarel" /></p>
-
-
-
-
