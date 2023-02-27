@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrei Dogărel</h1>
-<h3 align="center">Student at [FMI-Unibuc](https://fmi.unibuc.ro)</h3>
+<h3 align="center">Student at <a href="https://fmi.unibuc.ro">FMI-Unibuc</a></h3>
 
 - 📫 How to reach me **andreidogarel6@gmail.com**
 
