@@ -9,7 +9,7 @@
 - 📫 How to reach me **andreidogarel6@gmail.com**
 - 💼 You can also find more about me on <a href="https://www.linkedin.com/in/andrei-dogarel-b40739177/">LinkedIn</a>
 
-<h3 align="left">Problems solved (<i>Language: </i><b>C++</b>):</h3>
+<h3 align="left">Problems solved (<i>Language: </i><b>C++</b>)</h3>
 <ul>
   <li><a href="https://www.interviewbit.com/profile/andrei-dogarel" target="blank">InterviewBit</a></li>
   <li><a href="https://www.nerdarena.ro/utilizator/andreidogarel6@gmail.com?action=stats" target="blank">VArena/InfoArena</a></li>
