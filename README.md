@@ -3,11 +3,7 @@
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-
-<p align="left"> <a href="https://twitter.com/dynamight" target="blank"><img src="https://img.shields.io/twitter/follow/dynamight?logo=twitter&style=for-the-badge" alt="dynamight" /></a> </p>
-
-- 📫 How to reach me **andreidogarel6@gmail.com**
-- 💼 You can also find more about me on <a href="https://www.linkedin.com/in/andrei-dogarel-b40739177/">LinkedIn</a>
+- You can find more about me on <a href="https://www.linkedin.com/in/andrei-dogarel-b40739177/">**LinkedIn**</a>
 
 <h3 align="left">Problems solved (<i>Language: </i><b>C++</b>)</h3>
 <ul>
