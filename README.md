@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- You can find more about me on <a href="https://www.linkedin.com/in/andrei-dogarel-b40739177/">**LinkedIn**</a>
+- You can find more about me on <a href="https://www.linkedin.com/in/andrei-dogărel-b40739177/">**LinkedIn**</a>
 
 <h3 align="left">Problems solved (<i>Language: </i><b>C++</b>)</h3>
 <ul>
