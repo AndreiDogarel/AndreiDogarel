@@ -5,13 +5,6 @@
 
 - You can find more about me on <a href="https://www.linkedin.com/in/andrei-dogărel-b40739177/">**LinkedIn**</a>
 
-<h3 align="left">Problems solved (<i>Language: </i><b>C++</b>)</h3>
-<ul>
-  <li><a href="https://www.interviewbit.com/profile/andrei-dogarel" target="blank">InterviewBit</a></li>
-  <li><a href="https://www.nerdarena.ro/utilizator/andreidogarel6@gmail.com?action=stats" target="blank">VArena/InfoArena</a></li>
-  <li><a href="https://www.pbinfo.ro/profil/AndreiPorleo" target="blank">PBInfo</a></li>
-</ul>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dynamight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dynamight" height="30" width="40" /></a>
