@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrei Dogărel</h1>
-<h3 align="center">Student at <a href="https://fmi.unibuc.ro">FMI-Unibuc</a></h3>
+<h3 align="center">Student in second year at <a href="https://fmi.unibuc.ro">FMI-Unibuc</a></h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3>You cand find more about me on <a href="https://www.linkedin.com/in/andrei-dogărel-b40739177/"><b>LinkedIn</b></a></h3>
