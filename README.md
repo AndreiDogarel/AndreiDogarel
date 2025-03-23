@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/andreidogarel/"><img src="https://img.shields.io/static/v1?message=andreidogarel&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a><img src="https://img.shields.io/static/v1?message=andreidogarel6@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a><img src="https://img.shields.io/static/v1?message=andreidogarel24@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/andreidogarel/"><img src="https://img.shields.io/static/v1?message=Andrei Dogarel&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
